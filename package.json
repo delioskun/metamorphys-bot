@@ -1,0 +1,16 @@
+{
+  "name": "metamorphis-bot",
+  "version": "1.0.0",
+  "description": "Bot assistencial para tutoris",
+  "main": "metamorph.js",
+  "scripts": {
+    "start": "node metamorph.js"
+  },
+  "author": "Untitled",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "discord.js": "^11.3.2",
+    "isgd": "^1.1.3"
+  }
+}
